@@ -1,0 +1,1 @@
+shapes module verified: Circle, Rectangle
